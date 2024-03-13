@@ -11,3 +11,6 @@ While this keylogger does not offer advanced features, it can be customized and 
 
 📣 **Warning:**
 Before deploying this keylogger, ensure that you have the necessary authorization and legal permissions. Misuse of keylogging software can lead to severe legal consequences. Use with caution and respect the privacy of others. 🚨🔑
+
+📂 **Executable Location:**
+After running the PyInstaller command, the generated executable file can be found in the `dist` directory within your script's directory.
