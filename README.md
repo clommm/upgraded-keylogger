@@ -14,3 +14,5 @@ Before deploying this keylogger, ensure that you have the necessary authorizatio
 
 📂 **Executable Location:**
 After running the PyInstaller command, the generated executable file can be found in the `dist` directory within your script's directory.
+
+Would appreciate a ⭐ very much!:D
